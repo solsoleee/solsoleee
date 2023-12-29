@@ -31,8 +31,4 @@
 ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
-
-![solsoleee's GitHub stats](https://github-readme-stats.vercel.app/api?username=solsoleee&include_all_commits=true&theme=nord&hide_border=true&count_private=true)
-
-
 </div>
