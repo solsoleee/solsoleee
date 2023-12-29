@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
-#### Hello there 👋 , this is solsoleee (Hansol Wang)
+### Hello there 👋 , this is solsoleee (Hansol Wang)
  💻 I'm a software engineering student at EWU <br>
  🌱 I’m currently learning development <br>
  📫 How to reach me wsw3727@gmail.com <br>
