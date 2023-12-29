@@ -14,9 +14,9 @@
 
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![gunicorn](https://img.shields.io/badge/gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) <br> <br>
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) !
-[py](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) !
-[django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) <br> <br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
+![py](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
+![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) <br> <br>
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
   
 </div>
