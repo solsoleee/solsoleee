@@ -30,6 +30,7 @@
 ![py](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
+<br>
 ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=node.js&logoColor=white)
  
