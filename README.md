@@ -27,11 +27,10 @@
 
 ### platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
-![py](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
+![py](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <br>
 ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=node.js&logoColor=white)
-<br>
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
  
 </div>
