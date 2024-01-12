@@ -35,6 +35,6 @@
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 <br>
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wsw3727)](https://solved.ac/wsw3727)
-</div>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsw3727)](https://solved.ac/wsw3727)
