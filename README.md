@@ -38,3 +38,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsw3727)](https://solved.ac/wsw3727)
+
+| | 기간 | 프로젝트 | 역할 | 기술 스택 | 팀/개인 | Release | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2023.8.1 ~ 2023.8.22		| Daily VS | BE, 기획 | Django | 팀(5) | https://daily-vs.com/ |
