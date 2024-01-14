@@ -45,5 +45,5 @@
 | 5 | 2023.12.19 ~ | Bubblow | BE, devops, 기획 | FastApi, react | 팀(3) |  |
 | 4 | 2023.9.17 ~ 2023.10.7 | Pirogramming Official Web community | BE, 기획 | NodeJS | 팀(4) | (closed) |
 | 3 | 2023.8.1 ~ 2023.8.22		| Daily VS | BE, devops | Django | 팀(5) | https://daily-vs.com/ |
-| 2 | 2022.6.1 ~ 2023.6.30		| CJ 올리브네트웍스 유형테스트 | FE, BE | html, css, js | 개인 | https://developer-unit-test.netlify.app/ |
+| 2 | 2022.6.1 ~ 2023.6.30		| CJ 올리브네트웍스 유형테스트 | FE | html, css, js | 개인 | https://developer-unit-test.netlify.app/ |
 | 1 | 2021.7.1 ~ 2021.7.30		| MarkAble | FE, UX/UI, 기획 | vanilla JS | 팀(6) | (closed) |
