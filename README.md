@@ -3,9 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hansol&fontSize=70)
 
 
-<a href="https://wsw3727.tistory.com/">
+<a href="https://wsw3727.tistory.com/" target="_blank">
  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
+
 <a href="mailto:wsw3727@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
@@ -33,6 +34,8 @@
 <br>
 ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=node.js&logoColor=white)
 
 <br>
 
