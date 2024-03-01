@@ -38,9 +38,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=node.js&logoColor=white)
 <br>
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsw3727)](https://solved.ac/wsw3727)
-<br>
+
 
 ## 👩‍💻Projects👩‍💻
 | | 기간 | 프로젝트 | 역할 | 기술 스택 | 팀/개인 | Repo | 
