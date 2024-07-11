@@ -43,7 +43,7 @@
 ## 👩‍💻Projects👩‍💻
 | | 기간 | 프로젝트 | 역할 | 기술 스택 | 팀/개인 | Repo | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 5 | 2023.12.19 ~ | Bubblow | BE, devops, 기획 | FastApi, react | 팀(3) | https://github.com/Bubblow |
+| 5 | 2023.12.19 ~ 2023.06.23 | Bubblow | BE, devops, 기획 | FastApi, react | 팀(3) | https://github.com/Bubblow |
 | 4 | 2023.9.17 ~ 2023.10.7 | Pirogramming Official Web community | BE, 기획 | NodeJS | 팀(4) | https://github.com/Pironeer-1/PiroSquare |
 | 3 | 2023.8.1 ~ 2023.8.22		| Daily VS | BE, devops | Django | 팀(5) | https://github.com/DAILY-VS/DailyVS_server |
 | 2 | 2022.6.1 ~ 2023.6.30		| CJ 올리브네트웍스 유형테스트 | FE | html, css, js | 개인 | https://github.com/solsoleee/CJ_UNIT_TypeTest |
