@@ -39,7 +39,7 @@
 
 ### Activities
 
-- **Samsung Software Academy For Youth (SSAFY) 12th Cohort**
+- **Samsung Software Academy For Youth (SSAFY) 12th**
   > Trainee | Jul.2024 - Current
 
 - **Pironeer: Pirogramming Dev Team**
