@@ -62,10 +62,10 @@
   > Member | Jun.2021 - Sep.2021  
   > Solved algorithm problems using Python, conducted weekly presentations, and participated in the Sinchon University Algorithm Programming Contest (SUAPC) collaborating with team members.
 
-- **Silicon Valley Internship Program**
+- **Silicon Valley Online Internship Program**
   > Trainee, BE | Jul.2021 - Aug.2021
-  > 
-  > Collaborated with a startup to develop the Trademark Registration Feasibility Prediction Service ‘MarkAble’
+  
+  >  Collaborated with a startup to develop the Trademark Registration Feasibility Prediction Service ‘MarkAble’
 
 <hr />
 
