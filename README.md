@@ -11,9 +11,9 @@
 ### Tech Stack
 
 - **Programming Languages:** Python, Java, HTML, CSS, JavaScript,C
-- **Frameworks & Libraries:** React, Django, Flask, FastAPI, Node.js, Django REST framework (DRF)
+- **Frameworks & Libraries:** Django REST framework (DRF), FastAPI, React, Flask, Node.js
 - **Databases:** PostgreSQL, MySQL
-- **Infrastructure & DevOps:** AWS EC2, Google Cloud, S3, Nginx, Docker, Gunicorn
+- **Infrastructure & DevOps:** AWS EC2, S3, google cloud platform, Docker, Nginx, Gunicorn
 
 
 <!--- **STRONG** | ReactJS, FastAPI, PostgreSQL, Django REST framework, MySQL
@@ -40,7 +40,7 @@
 ### Activities
 
 - **Samsung Software Academy For Youth (SSAFY) 12th Cohort**
-  > Trainee | Jul.2024 - Present
+  > Trainee | Jul.2024 - Current
 
 - **Pironeer: Pirogramming Dev Team**
   > back-end | Sep.2023 - Feb.2024
