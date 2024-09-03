@@ -10,8 +10,8 @@
 
 ### Tech Stack
 
-- **Programming Languages:** Python, Java, HTML, CSS, JavaScript,C
-- **Frameworks & Libraries:** Django REST framework (DRF), FastAPI, React, Flask, Node.js
+- **Programming Languages:** Python, Java, C, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Django REST framework (DRF), FastAPI, Flask, React, Node.js
 - **Databases:** PostgreSQL, MySQL
 - **Infrastructure & DevOps:** AWS EC2, S3, google cloud platform, Docker, Nginx, Gunicorn
 
