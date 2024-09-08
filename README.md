@@ -77,7 +77,7 @@
 | 4 | Sep. 2023 - Oct. 2023 | Pirogramming Official Web Community | BE, Planning | Node.js | Team (4) | [GitHub Repo](https://github.com/Pironeer-1/PiroSquare) |
 | 3 | Aug. 2023 | Daily VS | BE, DevOps | DRF | Team (5) | [GitHub Repo](https://github.com/DAILY-VS/DailyVS_server) |
 | 2 | Jun. 2022 - Jun. 2023 | CJ OliveNetworks Type Test | FE | HTML, CSS, JavaScript | Individual | [GitHub Repo](https://github.com/solsoleee/CJ_UNIT_TypeTest) |
-| 1 | Jul. 2021 | MarkAble | BE | Flask | Team (6) | [GitHub Repo](https://github.com/2021-summer-program/MarkAble) |
+| 1 | Jul. 2021 | MarkAble | BE | Flask | Team (6) | [Notion](https://defiant-rice-8f5.notion.site/MARK-ABLE-e6a8f58d00774c4584313052f9e1d22d) |
 
 <!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=yourusername) -->
 
