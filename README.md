@@ -73,13 +73,13 @@
 
 | | Period | Project | Role | Tech Stack | Team/Individual | Repo | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 6 | Nov. 2024 - Nov. 2024 | PickHome | FE, BE, Planning | Springboot, Vue | Team (2) | [GitHub Repo](https://github.com/Gyul-Latto) |
 | 5 | Dec. 2023 - Jun. 2024 | Bubblow | BE, DevOps, Planning | FastAPI, React | Team (3) | [GitHub Repo](https://github.com/Bubblow) |
 | 4 | Sep. 2023 - Oct. 2023 | Pirogramming Official Web Community | BE, Planning | Node.js | Team (4) | [GitHub Repo](https://github.com/Pironeer-1/PiroSquare) |
 | 3 | Aug. 2023 | Daily VS | BE, DevOps | DRF | Team (5) | [GitHub Repo](https://github.com/DAILY-VS/DailyVS_server) |
 | 2 | Jun. 2022 - Jun. 2023 | CJ OliveNetworks Type Test | FE | HTML, CSS, JavaScript | Individual | [GitHub Repo](https://github.com/solsoleee/CJ_UNIT_TypeTest) |
 | 1 | Jul. 2021 | MarkAble | BE | Flask | Team (6) | [Notion](https://experienced-lion-7a5.notion.site/Markable-1064230272f080b99194e2c6919c43a2?pvs=4) |
 
-<!-- ![](https://gh-hits.nomadcoders.workers.dev/view?username=yourusername) -->
 
 <!-- ### Tools used
 <p>
