@@ -91,5 +91,3 @@
 </p>
 <hr> -->
 
-### BJ profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsw3727)](https://solved.ac/wsw3727/)
